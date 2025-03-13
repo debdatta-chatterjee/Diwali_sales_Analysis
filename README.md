@@ -1,8 +1,6 @@
 # Diwali_sales_Analysis
 
-Objective-
-
-The project aims to provide insights into consumer preferences during the Diwali season, helping businesses optimize their marketing strategies.
+Objective- The project aims to provide insights into consumer preferences during the Diwali season, helping businesses optimize their marketing strategies.
 
 This project analyzes Diwali sales data to identify key consumer trends based on demographics, professions, and purchasing behavior. The findings reveal that:
 
